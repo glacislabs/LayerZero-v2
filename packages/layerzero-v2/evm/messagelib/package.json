@@ -2,7 +2,6 @@
   "name": "@layerzerolabs/lz-evm-messagelib-v2",
   "private": true,
   "license": "LZBL-1.2",
-  "version": "2.0.2",
   "scripts": {
     "clean": "rimraf cache out",
     "build": "forge build",
