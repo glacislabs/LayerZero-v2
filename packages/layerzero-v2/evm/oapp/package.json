@@ -2,6 +2,7 @@
   "name": "@layerzerolabs/lz-evm-oapp-v2",
   "private": true,
   "license": "MIT",
+  "version": "2.0.2",
   "scripts": {
     "clean": "rimraf cache out",
     "build": "forge build",
